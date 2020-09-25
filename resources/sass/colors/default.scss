@@ -1,0 +1,104 @@
+/* Colors */
+@import "../colors.scss";
+
+/* UI Color Set --------------------------------------------- */
+
+/* Backgrounds */
+.bg-color-dark {
+    background-color: $color23 !important;
+}
+
+.ui-bg-color02 {
+    background-color: $color24 !important;
+}
+
+.boxed {
+    background-image: url('../../images/backgrounds/grey_wash_wall.png');
+}
+
+.e-bg-light-texture {
+    background-image: url('../../images/backgrounds/dark_fish_skin.png');
+}
+
+/* Blocks */
+.ui-block-color01 {
+    background-color: $color03 !important;
+}
+
+.ui-block-color02 {
+    background-color: $purple !important;
+}
+
+.ui-block-color03 {
+    background-color: $blue !important;
+}
+
+.ui-block-color04 {
+    background-color: $darkblue !important;
+}
+
+/* Navigation */
+.ui-menu-green {
+    background-color: $green !important;
+}
+
+.ui-menu-blue {
+    background-color: $blue !important;
+
+    * {
+        color: white;
+    }
+}
+
+.ui-menu-purple {
+    background-color: $purple !important;
+
+    * {
+        color: white;
+    }
+}
+
+.ui-menu-orange {
+    background-color: $orange !important;
+
+    * {
+        color: white;
+    }
+}
+
+.ui-menu-red {
+    background-color: $red !important;
+
+    * {
+        color: white;
+    }
+
+    a:hover {
+        color: white;
+    }
+}
+
+.ui-menu-yellow {
+    background-color: $yellow !important;
+
+    * {
+        color: white;
+    }
+}
+
+/* Misc Styles */
+.pro-experience h3 {
+    color: $color01;
+}
+
+.circle-skills h3 {
+    color: $color01;
+}
+
+.name-title {
+    color: $color01;
+}
+
+.subtitle {
+    color: $hovercolor;
+}
