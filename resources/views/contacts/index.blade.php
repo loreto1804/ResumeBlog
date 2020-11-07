@@ -29,7 +29,7 @@
                         </span>
                      </div>
                      <div class="col-sm-9">
-                        <p>terantechsolutions@outlook.com</p>
+                        <p>jaloreto@hotmail.com</p>
                      </div>
                   </div>
                   <div class="row">
@@ -39,7 +39,7 @@
                         </span>
                      </div>
                      <div class="col-sm-9">
-                        <p>1 520 333-7329</p>
+                        <p>+52 662 120 99 36</p>
                      </div>
                   </div>
                   <div class="row">
@@ -49,7 +49,7 @@
                         </span>
                      </div>
                      <div class="col-sm-9">
-                        <p>@@lteran9</p>
+                        <p>@@jaloreto_2</p>
                      </div>
                   </div>
                </div>

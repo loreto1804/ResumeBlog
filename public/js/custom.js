@@ -583,20 +583,20 @@
 })(jQuery);
 
 function initMap() {
-    var phoenix = {
-        lat: 33.5050991,
-        lng: -112.0052417
+    var hermosillo = {
+        lat: 29.082137,
+        lng: -111.0590271
     };
 
     var map = new google.maps.Map(
         document.getElementById('google-map'), {
             zoom: 9,
-            center: phoenix
+            center: hermosillo
         }
     );
 
     var marker = new google.maps.Marker({
-        position: phoenix,
+        position: hermosillo,
         map: map
     });
 }

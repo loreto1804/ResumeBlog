@@ -15,8 +15,8 @@
                 </h4>
                 <p data-animation-origin="right" data-animation-duration="400" data-animation-delay="300"
                     data-animation-distance="50px">
-                    I have been coding for a good ten years by now. My first interaction with real programming was
-                    at the University of Arizona when I was a sophomore (around 2010). Before then I had little
+                    I have been coding for about one and a half years by now. My first interaction with real programming was
+                    at the Hermosillo's Technology Institute when I was a sophomore (around 2019). Before then I had little
                     understanding about how machines worked and interpreted code. Needless to say it was an exciting
                     opportunity to learn about the different programming languages in the world and about
                     machine-level instructions. My favorite coding class was Introduction to Objects which was taught in
@@ -114,7 +114,7 @@
                             </div>
                             <div class="col-sm-7">
                                 <p>
-                                    <a href="#!">Senior Software Engineer</a>
+                                    <a href="#!">Software Engineer</a>
                                 </p>
                             </div>
                         </div>
@@ -171,11 +171,10 @@
                             <div class="col-md-12">
                                 <div class="dividewhite1"></div>
                                 <h5 class="font-accident-two-bold uppercase">
-                                    Dependable
+                                    Good Time and Task Management.
                                 </h5>
                                 <p class="small">
-                                    Keeping a journal of daily tasks is one of my specialties. I enjoy keeping a log of
-                                    current and future assignments.
+                                    Highly reliable with the time and shape that my tasks are assigned with.
                                 </p>
                             </div>
                         </div>
@@ -209,11 +208,10 @@
                             <div class="col-md-12">
                                 <div class="dividewhite1"></div>
                                 <h5 class="font-accident-two-bold uppercase">
-                                    Leader
+                                    Driven.
                                 </h5>
                                 <p class="small">
-                                    I choose to lead by motivating others to improve on their personal goals whatever
-                                    those might be.
+                                    When you find your why, you don’t put excuses. I just find a way to make it happen.
                                 </p>
                             </div>
                         </div>
@@ -228,11 +226,10 @@
                             <div class="col-md-12">
                                 <div class="dividewhite1"></div>
                                 <h5 class="font-accident-two-bold uppercase">
-                                    Ambitious
+                                    Ambitious.
                                 </h5>
                                 <p class="small">
-                                    Our time is limited on this earth. I am trying to do the most with the time that has
-                                    been granted to me.
+                                    I learned not to be afraid of being ambitious about my goals. Time is our most valuable asset and i dont want to spend it having second thoughts on my goals.
                                 </p>
                             </div>
                         </div>
@@ -260,7 +257,7 @@
                         I feel are worthy of sharing with a public audience.
                     </p>
                 </div>
-                <div class="dividewhite4"></div>
+                div class="dividewhite4"></div>
                 <ul class="timeline-vert timeline">
                     <li>
                         <div class="timeline-badge primary">
@@ -394,11 +391,11 @@
                         </div>
                         <div class="timeline-panel" data-animation-origin="right" data-animation-duration="400"
                             data-animation-delay="400" data-animation-distance="25px">
-                            <p class="timeline-time fontcolor-invert">Aug 2009</p>
+                            <p class="timeline-time fontcolor-invert">Aug 2018</p>
                             <div class="timeline-photo timeline-01"></div>
                             <div class="timeline-heading">
                                 <h4 class="font-accident-two-normal uppercase">
-                                    The University of Arizona
+                                    Instituto Tecnologico de Hermosillo
                                 </h4>
                                 <h6 class="uppercase">
                                     Freshman Year

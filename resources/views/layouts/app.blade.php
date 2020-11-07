@@ -13,7 +13,7 @@
    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
    <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-   <title>Resume | Luis A Ter&aacute;n</title>
+   <title>Resume | Jorge A Loreto</title>
 
    <meta name="description" content="TBD">
    <meta name="keywords" content="TBD">
@@ -52,9 +52,7 @@
                <div class="row nopadding name">
                   <div class="col-md-10 name-title">
                      <h1 class="font-accident-two-light uppercase">
-                        Luis
-                        <span class="hidden-xs">Antonio</span>
-                        Ter&aacute;n
+                        Jorge Alberto Loreto   
                      </h1>
                   </div>
                   <div class="col-md-2 nopadding name-pdf">
@@ -146,7 +144,7 @@
                   Download CV
                </h5>
                <div class="dividewhite1"></div>
-               <a href="{{Storage::url('LuisATeran_Resume.docx')}}">
+               <a href="{{Storage::url('Jorge_Loreto_Resume.pdf')}}">
                   <i class="fa fa-long-arrow-down" aria-hidden="true"></i>English
                </a>
                <a href="{{Storage::url('LuisATeran_Resume_DE.docx')}}">

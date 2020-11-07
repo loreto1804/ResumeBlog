@@ -24,10 +24,9 @@
                      <i class="fa fa-cogs hovercolor"></i>
                   </div>
                   <div class="col-sm-11 col-md-9">
-                     <h5 class="font-accident-one-bold uppercase">Resourceful</h5>
+                     <h5 class="font-accident-one-bold uppercase">Good Time and Task Management</h5>
                      <p class="small">
-                        Overcoming obstacles in quick and clever ways is one of my best traits. I do what I
-                        can with what I have.
+                        Highly reliable with the time and shape that my tasks are assigned with.
                      </p>
                   </div>
                </div>
@@ -36,10 +35,9 @@
                      <i class="flaticon-stats47 hovercolor"></i>
                   </div>
                   <div class="col-sm-11 col-md-9">
-                     <h5 class="font-accident-one-bold uppercase">Objective Driven</h5>
+                     <h5 class="font-accident-one-bold uppercase">Driven</h5>
                      <p class="small">
-                        Setting objectives is key to measuring success. Analytics drive all aspects of
-                        software development.
+                        When you find your why, you don’t put excuses. I just find a way to make it happen.
                      </p>
                   </div>
                </div>
@@ -80,14 +78,14 @@
                <div class="dividewhite4"></div>
                <dl class="info">
                   <dt>Name:</dt>
-                  <dd>Luis Antonio Ter&aacute;n Loreto</dd>
+                  <dd>Jorge Alberto Loreto Sanchez</dd>
                   <dt>Age:</dt>
-                  <dd>{{floor((time() - strtotime('1990-08-11')) / 31556926)}}</dd>
+                  <dd>{{floor((time() - strtotime('2000-04-18')) / 31556926)}}</dd>
                   <dt>Address</dt>
-                  <dd>Phoenix, AZ</dd>
+                  <dd>Hermosillo, Sonora, Mexico</dd>
                   <dt>Email</dt>
                   <dd>
-                     <a href="mailto:terantechnologysolutions@outlook.com">terantechnologysolutions@outlook.com</a>
+                     <a href="mailto:jaloreto@hotmail.com">jaloreto@hotmail.com</a>
                   </dd>
                </dl>
             </div>
@@ -110,12 +108,12 @@
                      <li class="date">08/2018 - present</li>
                      <li class="company uppercase">
                         <a>
-                           U-Haul
+                           GascaTec
                         </a>
                      </li>
-                     <li class="position">Sr. Software Engineer</li>
+                     <li class="position">Intern</li>
                   </ul>
-                  <ul>
+                  <!--<ul>
                      <li class="date">08/2016 - 08/2018</li>
                      <li class="company uppercase">
                         <a>
@@ -123,7 +121,7 @@
                         </a>
                      </li>
                      <li class="position">Software Engineer</li>
-                  </ul>
+                  </ul>-->
                   <ul>
                      <li class="date">06/2014 - 08/2016</li>
                      <li class="company uppercase">
@@ -131,9 +129,9 @@
                            Ter&aacute;n Technology Solutions, LLC
                         </a>
                      </li>
-                     <li class="position">Cheif Technology Officer</li>
+                     <li class="position">Intern</li>
                   </ul>
-                  <ul>
+                  <!--<ul>
                      <li class="date">04/2012 - 06/2014</li>
                      <li class="company uppercase">
                         <a>
@@ -141,7 +139,7 @@
                         </a>
                      </li>
                      <li class="position">Junior Developer</li>
-                  </ul>
+                  </ul>-->
                </div>
                <a href="{{route('resume.index')}}" class="btn btn-wh-trans btn-xs">Learn More</a>
                <div class="dividewhite1"></div>
@@ -173,12 +171,8 @@
                   <div class="col-md-4">
                      <h3 class="uppercase font-regular-bold hidden-md hidden-xl">
                         Mobile Applications
-                     </h3>
-                     <h4>iOS / Swift</h4>
-                     <hr />
+                     </h3>                    
                      <h4>Android</h4>
-                     <hr />
-                     <h4>Windows</h4>
                      <div class="dividewhite3"></div>
                   </div>
                   <div class="col-md-4">
