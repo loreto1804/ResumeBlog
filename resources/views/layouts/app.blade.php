@@ -56,7 +56,7 @@
                      </h1>
                   </div>
                   <div class="col-md-2 nopadding name-pdf">
-                     <a href="{{Storage::url('LuisATeran_Resume.docx')}}" class="hvr-sweep-to-right">
+                     <a href="{{Storage::url('Jorge_Loreto_Resume.pdf')}}" class="hvr-sweep-to-right">
                         <i class="flaticon-download149" title="Download CV"></i>
                      </a>
                   </div>

@@ -87,7 +87,7 @@
                             </div>
                             <div class="col-sm-7">
                                 <p>
-                                    Arizona or Remote Work
+                                    Remote Work
                                 </p>
                             </div>
                         </div>
@@ -257,9 +257,9 @@
                         I feel are worthy of sharing with a public audience.
                     </p>
                 </div>
-                div class="dividewhite4"></div>
+                <div class="dividewhite4"></div>
                 <ul class="timeline-vert timeline">
-                    <li>
+                    <!--<li>
                         <div class="timeline-badge primary">
                             <i class="flaticon-arrows"></i>
                         </div>
@@ -276,8 +276,8 @@
                                 </h6>
                             </div>
                         </div>
-                    </li>
-                    <li class="timeline-inverted info">
+                    </li>-->
+                    <!--<li class="timeline-inverted info">
                         <div class="timeline-badge warning">
                             <i class="flaticon-identification28"></i>
                         </div>
@@ -294,8 +294,8 @@
                                 </h6>
                             </div>
                         </div>
-                    </li>
-                    <li>
+                    </li>-->
+                    <!--<li>
                         <div class="timeline-badge primary">
                             <i class="flaticon-profile5"></i>
                         </div>
@@ -312,8 +312,8 @@
                                 </h6>
                             </div>
                         </div>
-                    </li>
-                    <li class="timeline-inverted info">
+                    </li>-->
+                    <!--<li class="timeline-inverted info">
                         <div class="timeline-badge warning">
                             <i class="flaticon-graduation61"></i>
                         </div>
@@ -330,26 +330,26 @@
                                 </h6>
                             </div>
                         </div>
-                    </li>
+                    </li>-->
                     <li>
                         <div class="timeline-badge primary">
                             <i class="flaticon-clocks18"></i>
                         </div>
-                        <div class="timeline-panel" data-animation-origin="left" data-animation-duration="400"
+                        <div class="timeline-panel" data-animation-origin="right" data-animation-duration="400"
                             data-animation-delay="400" data-animation-distance="25px">
-                            <p class="timeline-time fontcolor-invert">Jan 2014</p>
+                            <p class="timeline-time fontcolor-invert">Jun 2020</p>
                             <div class="timeline-photo timeline-samuel-01"></div>
                             <div class="timeline-heading">
                                 <h4 class="font-accident-two-normal uppercase">
                                     Ter&aacute;n Technology Solutions, LLC
                                 </h4>
                                 <h6 class="uppercase">
-                                    Co-Founder
+                                    INTERN
                                 </h6>
                             </div>
                         </div>
                     </li>
-                    <li class="timeline-inverted">
+                    <!--<li class="timeline-inverted">
                         <div class="timeline-badge success">
                             <i class="flaticon-clipboard80"></i>
                         </div>
@@ -366,7 +366,7 @@
                                 </h6>
                             </div>
                         </div>
-                    </li>
+                    </li>-->
                     <li>
                         <div class="timeline-badge danger">
                             <i class="flaticon-tool"></i>
@@ -377,10 +377,10 @@
                             <div class="timeline-photo timeline-02"></div>
                             <div class="timeline-heading">
                                 <h4 class="font-accident-two-normal uppercase">
-                                    Scholarship Universe
+                                    GASCA TEC
                                 </h4>
                                 <h6 class="uppercase">
-                                    Jr Software Developer
+                                    INTERN
                                 </h6>
                             </div>
                         </div>
